@@ -27,13 +27,13 @@ Thiết kế giao diện thêm vào những sự kiện mới
 ## Phạm Tuấn Anh (Member)
 
 ### Tuần trước làm gì
-
+làm giao diện đăng kí và backend của nó nằm trong file MainJava
 
 ### Khó khăn gặp phải
-
+Chưa biết chỉnh file mantifest nên mới dặt phần java của đăng kí vào trong mainjava
 
 ### Dự định tuần tới
-
+làm giao diện nội dung của sự kiện
 
 ## Phí Ngọc Quang (Member)
 
