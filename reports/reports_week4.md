@@ -15,14 +15,14 @@ Bắt đầu vào giao diện chính của app
 
 ## Nguyễn Phương Nga(C)
 
-### Tuần trước làm gì
-
+### Tuần trước làm gì 
+Database lưu trữ thông tin của những người đăng ký
 
 ### Khó khăn gặp phải
-
+Export ra bảng vẫn chưa đủ cột
 
 ### Dự định tuần tới
-
+Thiết kế giao diện thêm vào những sự kiện mới
 
 ## Phạm Tuấn Anh (Member)
 
