@@ -38,13 +38,13 @@ Thiết kế giao diện thêm vào những sự kiện mới
 ## Phí Ngọc Quang (Member)
 
 ### Tuần trước làm gì
-
+Backend của phần signup
 
 ### Khó khăn gặp phải
-
+Chưa có khó khăn
 
 ### Dự định tuần tới
-
+Backend phần "thêm vào sự kiện mới"
 
 ## Chu Tuấn Kiệt(Member)
 
