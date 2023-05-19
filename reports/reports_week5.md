@@ -13,46 +13,46 @@ Bắt đầu vào giao diện chính của app
 
 # Báo cáo của thành viên
 
-## Nguyễn Phương Nga(C)
+##Phạm Tuấn Anh(C)
 
 ### Tuần trước làm gì 
-Database lưu trữ thông tin của những người đăng ký
+làm giao diện nội dung của sự kiện
 
 ### Khó khăn gặp phải
-Export ra bảng vẫn chưa đủ cột
+không có khó khăn gì
 
 ### Dự định tuần tới
-Thiết kế giao diện thêm vào những sự kiện mới
+lưu trữ tất cả thông tin sự kiện trong database
 
-## Phạm Tuấn Anh (Member)
+## Nguyễn Phương Nga(Member)
 
 ### Tuần trước làm gì
-làm giao diện đăng kí và backend của nó nằm trong file MainJava
+lm giao diện nội dung của sự kiện
 
 ### Khó khăn gặp phải
-Chưa biết chỉnh file mantifest nên mới dặt phần java của đăng kí vào trong mainjava
+chưa gặp khó khăn gì
 
 ### Dự định tuần tới
-làm giao diện nội dung của sự kiện
+hoàn thành nốt các giao diện
 
 ## Phí Ngọc Quang (Member)
 
 ### Tuần trước làm gì
-Backend của phần signup
+Backend phần "thêm vào sự kiện mới"
 
 ### Khó khăn gặp phải
-Chưa có khó khăn
+Chưa có khó khăn gì
 
 ### Dự định tuần tới
-Backend phần "thêm vào sự kiện mới"
+hoàn thành nốt các giao diện
 
 ## Chu Tuấn Kiệt(Member)
 
 ### Tuần trước làm gì
-
+giao diện các view chứa sự kiện
 
 ### Khó khăn gặp phải
-
+chưa có khó khăn gì
 
 ### Dự định tuần tới
-
+hoàn thiện nốt các activity
