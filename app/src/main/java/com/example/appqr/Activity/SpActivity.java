@@ -21,7 +21,7 @@ public class SpActivity extends AppCompatActivity {
         tvGetting.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(SpActivity.this, HomeActivity.class);
+                Intent intent = new Intent(SpActivity.this, LoginActivity.class);
                 startActivity(intent);
                 finish();
             }

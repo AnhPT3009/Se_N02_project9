@@ -19,6 +19,14 @@
         <activity
             android:name=".Activity.ShowDetailActivity"
             android:exported="false" />
+
+        <activity
+            android:name=".Activity.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.SignupActivity"
+            android:exported="false" />
+
         <activity
             android:name=".Activity.EventActivity"
             android:exported="false" />

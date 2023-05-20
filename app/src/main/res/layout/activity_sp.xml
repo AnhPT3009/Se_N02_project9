@@ -24,7 +24,7 @@
         android:layout_marginStart="@dimen/_25sdp"
         android:text="Travel QR"
         android:textColor="@color/white"
-        android:textSize="@dimen/_10sdp"
+        android:textSize="@dimen/_20sdp"
         android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@id/img1" />
 
@@ -35,7 +35,7 @@
         android:layout_marginStart="@dimen/_25sdp"
         android:text="App"
         android:textColor="@color/white"
-        android:textSize="@dimen/_10sdp"
+        android:textSize="@dimen/_20sdp"
         android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@id/tv1" />
 
