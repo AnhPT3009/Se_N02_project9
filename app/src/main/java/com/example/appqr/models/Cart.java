@@ -5,12 +5,12 @@ public class Cart {
     private SkDetail skDetail;
     private int amount;
 
-    public SkDetail getMealDetail() {
+    public SkDetail getSkDetail() {
         return skDetail;
     }
 
-    public void setMealDetail(SkDetail mealDetail) {
-        this.skDetail = mealDetail;
+    public void setSkDetail(SkDetail Detail) {
+        this.skDetail = Detail;
     }
 
     public int getAmount() {

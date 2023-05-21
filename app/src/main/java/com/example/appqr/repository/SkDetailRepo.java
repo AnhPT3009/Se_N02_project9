@@ -5,7 +5,6 @@ import android.util.Log;
 import androidx.lifecycle.MutableLiveData;
 
 import com.example.appqr.models.SkDetailModel;
-import com.example.appqr.models.skModels;
 import com.example.appqr.retrofit.RetrofitInstance;
 import com.example.appqr.retrofit.TravelAppApi;
 

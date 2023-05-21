@@ -8,7 +8,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
+import android.view.View;
 
 import com.example.appqr.R;
 import com.example.appqr.adapters.EventAdapter;
@@ -18,6 +18,7 @@ import com.example.appqr.listener.EventListener;
 import com.example.appqr.models.Event;
 import com.example.appqr.models.Sk;
 import com.example.appqr.viewModels.HomeViewModel;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class HomeActivity extends AppCompatActivity implements EventListener, EventClickListener {
     HomeViewModel homeViewModel;
@@ -31,6 +32,14 @@ public class HomeActivity extends AppCompatActivity implements EventListener, Ev
 
         initView();
         initData();
+        FloatingActionButton floatingBtn = findViewById(R.id.floatingbtn);
+        floatingBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent cartIntent = new Intent(getApplicationContext(), CartActivity.class);
+                startActivity(cartIntent);
+            }
+        });
     }
 
     private void initView() {
